@@ -1,0 +1,10 @@
+{
+    "name": "TreefarmLite",
+    "version": "17.0.12",
+    "title": "TreefarmLite v1.1",
+    "author": "marcel171297; Baedel (0.17 compatibility fix); original by drs, Blu3wolf, Treefarm Team",
+    "homepage": "",
+    "description": "Update of 1.1.x",
+    "factorio_version": "1.1",
+    "dependencies": ["base"]
+}

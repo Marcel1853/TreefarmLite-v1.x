@@ -1,0 +1,5 @@
+grass-1 to 4
+dry-dirt
+dirt-1 to 7
+sand-1 to 4
+red-desert-0 to 3

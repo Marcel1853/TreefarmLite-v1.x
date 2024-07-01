@@ -1,0 +1,64 @@
+{
+  "factorio.versions": [
+    {
+      "name": "factorio",
+      "factorioPath": "c:\\Users\\marce\\Desktop\\Factorio_x64_1.1.107\\bin\\x64\\factorio.exe",
+      "active": true
+    }
+  ],
+  "Lua.diagnostics.globals": [
+    "printError",
+    "sleep",
+    "read",
+    "write",
+    "print",
+    "colours",
+    "colors",
+    "commands",
+    "disk",
+    "fs",
+    "gps",
+    "help",
+    "http",
+    "paintutils",
+    "parallel",
+    "peripheral",
+    "rednet",
+    "redstone",
+    "keys",
+    "settings",
+    "shell",
+    "multishell",
+    "term",
+    "textutils",
+    "turtle",
+    "pocket",
+    "vector",
+    "bit32",
+    "window",
+    "_CC_DEFAULT_SETTINGS",
+    "_HOST",
+    "_VERSION",
+    "_",
+    "data",
+    "game"
+  ],
+  "Lua.diagnostics.disable": [
+    "unused-local",
+    "lowercase-global",
+    "unused-function",
+    "undefined-global",
+    "need-check-nil",
+    "undefined-field",
+    "cast-local-type",
+    "redundant-parameter",
+    "assign-type-mismatch"
+  ],
+  "Lua.workspace.library": [
+    "c:\\Users\\marce\\Desktop\\Factorio_x64_1.1.107\\data"
+  ],
+  "Lua.workspace.userThirdParty": [
+    "c:\\Users\\marce\\AppData\\Roaming\\Code\\User\\workspaceStorage\\028706501f53658b5ec47b6664ad7373\\justarandomgeek.factoriomod-debug\\sumneko-3rd"
+  ],
+  "Lua.workspace.checkThirdParty": "ApplyInMemory"
+}
