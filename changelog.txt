@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------------------------------
+Version: 17.0.12
+Date: 01. 07. 2024
+  Changes:
+
+  # Deutsch:
+
+  - Behoben: Versuchte, den Fehler von Koukloff zu beheben, der beim Ausführen des Ereignisses TreefarmLite::on_tick (ID 0) auftrat.:
+  - Fehlermeldung: LuaEntity-API-Aufruf, wenn LuaEntity ungültig war.:
+  - Stack-Traceback:
+    - [C]: in Funktion 'index'
+    - __TreefarmLite/control.lua:1161: in Funktion 'on_tree_is_ready_to_harvest'
+    - TreefarmLite/control.lua:1150: in Funktion 'tick_trees'
+    - TreefarmLite/control.lua:1246: in Funktion <TreefarmLite/control.lua:1240>
+
+  # Englisch:
+
+  - Fixed: Attempted to fix the bug reported by Koukloff occurring during execution of the event TreefarmLite::on_tick (ID 0).:
+  - Error message: LuaEntity API call when LuaEntity was invalid.:
+  - Stack traceback:
+    - [C]: in function 'index'
+    - __TreefarmLite/control.lua:1161: in function 'on_tree_is_ready_to_harvest'
+    - TreefarmLite/control.lua:1150: in function 'tick_trees'
+    - TreefarmLite/control.lua:1246: in function <TreefarmLite/control.lua:1240>
